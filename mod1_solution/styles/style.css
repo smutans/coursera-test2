@@ -1,0 +1,13 @@
+.lista {
+  background-color: rgb(210, 205, 213);
+}
+
+.lista li{
+  background-color: rgb(210, 205, 213);
+}
+
+.lista li:hover {
+  background-color: rgb(130, 71, 8);
+  color:#FFF;
+  font-weight: bold;
+}
